@@ -1,5 +1,6 @@
 ## Hey 👋, I'm Smit Bhavsar!  
   
+![yyz](https://user-images.githubusercontent.com/70238118/103163710-9e9fb080-47cf-11eb-96be-964c87434b8f.png)
 
 <a href="https://github.com/smitbhavsar93" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
