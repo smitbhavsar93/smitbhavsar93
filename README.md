@@ -38,7 +38,7 @@ I am currently a 2nd year Computer Engineering student who is seeking to gain ex
 
 - 🔭 Here's my latest [Github Repository](https://github.com/smitbhavsar93/iOS-CalculatorApp) that I've been working on!
 
-- ⚡ Fun fact: I keep night shift switched on at all times.  
+- ⚡ Fun fact: I keep night shift switched on 24/7.  
 
 
 </td><td valign="top" width="50%">
