@@ -28,7 +28,7 @@ I am currently a 2nd year Computer Engineering student who is seeking to gain ex
 <br/>  
 
 
-## Rapidfire  
+## Quickfire  
 <table><tr><td valign="top" width="50%">
 
 - 🌱 I’m currently learning  [iOS App Development](https://www.udemy.com/course/ios-13-app-development-bootcamp/) by taking the following course on Udemy!  
