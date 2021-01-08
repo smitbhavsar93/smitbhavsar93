@@ -82,15 +82,4 @@ I am currently a 2nd year Computer Engineering student who is seeking to gain ex
 
 </td></tr></table>  
 
-<br/>  
-
-  
-
-<br/>  
-
-  
-
-<br/>  
-
-
 <br />
