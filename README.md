@@ -21,9 +21,10 @@
 
 
 
-### Glad to see you here!  
-I am currently a 2nd year Computer Engineering student who is seeking to gain exposure to multiple technological platforms.  
-  
+## A Little About Me  
+There are so many people in the world who never have the opportunity to pursue the career they love. I’m not one of them. I love what I do ever since starting my 
+career in Toronto. I know that I still have so much to learn from others in the industry, but I’m a hard worker, a team player and excited to see what projects 
+could benefit from my unique skill set. I'm currently a Computer Engineering Co-op Student who is seeking to gain exposure to multiple technological platforms and  here is where I'll highlight some of my key projects that I've been working on throughout my university career. 
 
 <br/>  
 
