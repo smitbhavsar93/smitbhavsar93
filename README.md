@@ -37,7 +37,7 @@ could benefit from my unique skill set. I'm currently a Computer Engineering Co-
 
 - ❓ Ask me about anything related to Java, Swift or Python!  
 
-- 🔭 Here's my latest [Github Repository](https://github.com/smitbhavsar93/3D-BioWaste) that I've been working on!
+- 🔭 Here's my latest [Github Repository](https://github.com/smitbhavsar93/smitbhavsar93.github.io) that I've been working on!
 
 - ⚡ Fun fact: I keep night shift switched on 24/7.  
 
