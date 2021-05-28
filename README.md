@@ -2,6 +2,8 @@
   
 ![Smit Bhavsar](https://user-images.githubusercontent.com/70238118/119919420-6942ee80-bf38-11eb-98f6-a28303623136.png)
 
+
+<div align="center">
 <a href="https://github.com/smitbhavsar93" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -21,6 +23,8 @@
 
 
 
+<div align="left">
+  
 ## A Little About Me  
 There are so many people in the world who never have the opportunity to pursue the career they love. I’m not one of them. I love what I do ever since starting my 
 career in Toronto. I know that I still have so much to learn from others in the industry, but I’m a hard worker, a team player and excited to see what projects 
@@ -34,7 +38,6 @@ could benefit from my unique skill set. I'm currently a Computer Engineering Co-
 
 - 🌱 I’m currently learning  [iOS App Development](https://www.udemy.com/course/ios-13-app-development-bootcamp/) by taking the following course on Udemy!  
   
-
 - ❓ Ask me about anything related to Java, Swift or Python!  
 
 - 🔭 Here's my latest [Github Repository](https://github.com/smitbhavsar93/smitbhavsar93.github.io) that I've been working on!
